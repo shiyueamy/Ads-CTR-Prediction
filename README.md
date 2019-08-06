@@ -1,1 +1,3 @@
-# Ads-CTR-Prediction
+# Ads CTR Prediction
+
+### Methodologies: Python,ETL,XGBOOST
